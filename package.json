@@ -10,8 +10,12 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:qxxxxin/xxxin_print.git"
+  },
+  "author": "auth_xxxxin",
+  "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2"
   }

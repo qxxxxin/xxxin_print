@@ -199,6 +199,12 @@ public class RNCardviewModule extends ReactContextBaseJavaModule {
       }
   }
 
+  @ReactMethod
+    //清理dpl打印
+    public void clearDPL(){
+        docDPL.clear();
+    }
+
   @Override
   public String getName() {
     return "RNCardview";
