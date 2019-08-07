@@ -5153,6 +5153,11 @@ react-is@^16.3.1, react-is@^16.8.1, react-is@^16.8.4:
   resolved "https://registry.npmjs.org/react-is/-/react-is-16.8.6.tgz#5bbc1e2d29141c9fbdfed456343fe2bc430a6a16"
   integrity sha512-aUk3bHfZ2bRSVFFbbeVS4i+lNPZr3/WM5jT2J5omUVV1zzcs1nAaf3l51ctA5FFvCRbhrH0bdAsRRQddFJZPtA==
 
+react-native-authxxxxin-print@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.npmjs.org/react-native-authxxxxin-print/-/react-native-authxxxxin-print-1.0.2.tgz#80423aac99f6239782344488677ff2195b08b1ce"
+  integrity sha512-mvb+Y1PL+Vf3U/WIm0UuNc7r4MopziP2GQKFHBMWDoxw7+4EPjCn3+U/ALXn7F1QnfdX4wG4Qnmvo09tV5vNpA==
+
 react-native@0.55.4:
   version "0.55.4"
   resolved "https://registry.npmjs.org/react-native/-/react-native-0.55.4.tgz#eecffada3750a928e2ddd07cf11d857ae9751c30"

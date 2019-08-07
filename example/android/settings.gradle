@@ -1,3 +1,5 @@
 rootProject.name = 'example'
+include ':react-native-authxxxxin-print'
+project(':react-native-authxxxxin-print').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-authxxxxin-print/android')
 
 include ':app'
