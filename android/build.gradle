@@ -29,7 +29,7 @@ android {
 repositories {
     mavenCentral()
     flatDir {        
-        dirs 'libs'   // aar目录
+        dirs "$rootDir/libs"   // aar目录
     }
 }
 
